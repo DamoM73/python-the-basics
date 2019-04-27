@@ -1,10 +1,12 @@
 '''example program for the grid geometry manager'''
 #from tkinter import *
 
+
 # **** Create window
 #root = Tk()
 #root.geometry("300x200")
 #root.title("Tkinter grid example")
+
 
 # **** Add window content ****
 #label_one = Label(root, text="One", bg="blue", fg="white")
@@ -21,6 +23,7 @@
 
 #label_five = Label(root, text="Five", bg="purple", fg="white")
 #label_five.grid(row=2,column=0, columnspan=2)
+
 
 # **** Run window loop ****
 #root.mainloop()

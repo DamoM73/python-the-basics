@@ -1,10 +1,12 @@
 '''example program for the frame containers'''
 #from tkinter import *
 
-# **** Create window
+
+# **** Create window ****
 #root = Tk()
 #root.geometry("300x200")
 #root.title("Tkinter frames example")
+
 
 # **** Add window content ****
 # add content to top section
@@ -27,6 +29,7 @@
 # add content to the bottom section
 #label_five = Label(root, text="Five", bg="purple", fg="white")
 #label_five.pack(fill=BOTH, expand=TRUE)
+
 
 # **** Run window loop ****
 #root.mainloop()
